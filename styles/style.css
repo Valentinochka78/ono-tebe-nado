@@ -383,17 +383,6 @@
   justify-content: space-between;
 }
 
-address {
-  line-height: 24.3px; /* 135% */
-  max-width: 100%;
-  color: #000;
-  font-family: "Raleway", sans-serif;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 400;
-  text-underline-offset: 5px;
-}
-
 .footer__menu {
   width: 149px;
   height: 64px;
